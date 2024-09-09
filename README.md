@@ -10,7 +10,7 @@ I'm an BCA graduate from SRM University Sikkim. I'm passionate about software de
 - **Web Development**: HTML, CSS, JavaScript, Django, React, Bootstrap, Tailwind CSS
 - **Mobile Development**: React Native, Android
 - **Database**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, Jenkins
+- **Tools**: Git, Docker
 - **Others**: Data Structures and Algorithms, Machine Learning, Cloud Computing (AWS, Azure)
 
 ## 🎓 Education
