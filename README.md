@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an MCA graduate from Indira Gandhi National Open University (IGNOU). I'm passionate about software development and have a keen interest in full-stack web development, mobile app development, and data science. I'm always eager to learn new technologies and improve my skills.
+I'm an BCA graduate from SRM University Sikkim. I'm passionate about software development and have a keen interest in full-stack web development, mobile app development, and data science. I'm always eager to learn new technologies and improve my skills.
 
 ## 🛠️ Skills
 
@@ -15,7 +15,6 @@ I'm an MCA graduate from Indira Gandhi National Open University (IGNOU). I'm pas
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)**, Indira Gandhi National Open University (IGNOU) (2023 - 2025)
 - **Bachelor of Computer Applications (BCA)**, Shri Ramasamy Memorial University, Sikkim (SRM) (2020 - 2023)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project. I'm always open to new opportunities and challenges!
